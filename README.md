@@ -110,9 +110,4 @@ If you'd like to extend this project:
 - Improve performance by using dask/polars for large dataset handling.
 - Add unit tests for the cleaning and parsing functions in `cord19_analysis.py`.
 
-## License & Contact
-
-This repository is provided as-is for educational purposes. No license file is included — add one if you plan to publish or share publicly.
-
-If you need help or want changes to this README (specific examples, more setup details, or a different run environment), tell me which part you want changed and I will update it.
 
